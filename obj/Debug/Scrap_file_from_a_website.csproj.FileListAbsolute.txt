@@ -1,0 +1,12 @@
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\bin\Debug\Scrap_file_from_a_website.exe.config
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\obj\Debug\Scrap_file_from_a_website.csprojResolveAssemblyReference.cache
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\bin\Debug\Scrap_file_from_a_website.exe
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\bin\Debug\Scrap_file_from_a_website.pdb
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\bin\Debug\WebDriver.dll
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\bin\Debug\WebDriver.Support.dll
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\bin\Debug\WebDriver.xml
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\bin\Debug\WebDriver.Support.xml
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\obj\Debug\Scrap_file_from_a_website.exe
+D:\Pascal\BAI_TAP\LMN\Code_collection\others_lang\C#\Scrap_file_from_a_website\Scrap_file_from_a_website\obj\Debug\Scrap_file_from_a_website.pdb
