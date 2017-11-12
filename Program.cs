@@ -14,7 +14,7 @@ namespace Scrap_file_from_a_website
 		static List<string> key_lists = new List<string> { }; // Keyword list
 		static void Main(string[] args)
 		{
-			// Input
+			#region Input
 			Console.Write("Please type your direction to text file: ");
 			string link_dir = Console.ReadLine();
 			string tmp;
@@ -25,8 +25,9 @@ namespace Scrap_file_from_a_website
 				if (tmp != "Done")
 					key_lists.Add(tmp);
 			} while (tmp != "Done");
-			key_lists.Count();
-
+			#endregion
+				
+			// Solution
 			FirefoxProfileManager profile_manager = new FirefoxProfileManager();
 			FirefoxProfile profile = profile_manager.GetProfile("Selenium"); 
 			// "Selenium" is my profile name in Firefox, you need to create something similar otherwise Firefox will use Default profile 
